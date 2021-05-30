@@ -1,0 +1,5 @@
+.dcignore
+.idea
+main.py
+.gitignore
+venv

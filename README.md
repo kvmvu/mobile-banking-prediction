@@ -1,0 +1,2 @@
+## iX Mobile Banking Prediction Challenge
+Predictions on whether a client is better suited for mobile or internet banking subscriptions. A competition on <a href="https://zindi.africa/competitions/ix-mobile-banking-prediction-challenge">Zindi</a>
